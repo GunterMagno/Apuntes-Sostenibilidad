@@ -231,49 +231,102 @@ Comprender a fondo los **grandes retos que enfrenta el planeta**, **cómo afecta
 
 ---
 
+¡Perfecto! Aquí tienes el **RA3 completamente ampliado y detallado** en el mismo formato `.md` que usaste. He profundizado en todos los conceptos que mencionas, para que lo tengas listo para repasar o entregar:
+
+---
+
 ## 🧑‍🔬 **RA3: Aplicar criterios de sostenibilidad en tu vida profesional y personal**
 
 ### 🎯 **Objetivo:**
 
-Aprender a **incorporar los ODS** en tu día a día, **en tu trabajo y tu vida personal**, y entender qué oportunidades y riesgos trae consigo.
+Aprender a **aplicar los Objetivos de Desarrollo Sostenible (ODS)** tanto en tu vida profesional como personal, identificando los más importantes para tu sector, entendiendo **qué riesgos implica no cumplirlos** y **qué oportunidades pueden generarse si se adoptan**. Además, saber **proponer acciones concretas** que marquen la diferencia en el entorno.
 
 ### 🧩 **Contenido explicado:**
 
-* **🎯 ¿Qué son los ODS?**
+### 🎯 **¿Qué son los ODS?**
 
-  * Son los **Objetivos de Desarrollo Sostenible** que aprobó la ONU en 2015.
-  * Son **17 objetivos globales** para acabar con la pobreza, proteger el planeta y asegurar paz y prosperidad para todos.
+Los **ODS (Objetivos de Desarrollo Sostenible)** son un conjunto de **17 metas globales** adoptadas por todos los países miembros de la ONU en 2015. Forman parte de la **Agenda 2030**, un compromiso para transformar el mundo en un lugar más justo, equitativo, saludable y sostenible.
+
+Los ODS cubren ámbitos como:
+
+* Fin de la pobreza (ODS 1)
+* Educación de calidad (ODS 4)
+* Igualdad de género (ODS 5)
+* Trabajo decente (ODS 8)
+* Producción y consumo responsable (ODS 12)
+* Acción por el clima (ODS 13)
+
+Estos objetivos son una **guía de actuación universal**: no solo para gobiernos, sino también para empresas, organizaciones, profesionales y personas en su vida cotidiana.
+
+🧠 **Idea clave:**
+Los ODS ofrecen **una hoja de ruta concreta** para que cualquier persona pueda contribuir a un futuro más sostenible.
 
 ### 👨‍💼 **ODS más relevantes para tu profesión:**
 
-* Dependiendo de tu sector, algunos ODS serán más importantes:
+Aunque todos los ODS son importantes, en función del sector en el que trabajes, **algunos estarán más directamente relacionados con tu actividad diaria**.
 
-  * En restauración, por ejemplo: ODS 3 (salud y bienestar), ODS 12 (producción y consumo responsable), ODS 13 (acción por el clima).
-  * En comercio: ODS 8 (trabajo decente), ODS 5 (igualdad de género), ODS 9 (industria e innovación).
+#### 🥗 Ejemplo en hostelería o restauración:
+
+* **ODS 3**: Garantizar salud y bienestar mediante prácticas de higiene y seguridad alimentaria.
+* **ODS 12**: Usar productos de proximidad y reducir el desperdicio de alimentos.
+* **ODS 13**: Controlar emisiones, reducir el consumo energético y gestionar bien los residuos.
+
+#### 🛍️ Ejemplo en comercio:
+
+* **ODS 5**: Promover igualdad en el trato a clientes y empleados/as.
+* **ODS 8**: Ofrecer condiciones laborales justas y decentes.
+* **ODS 9**: Introducir innovación en los procesos y servicios.
+
+🧠 **Importante:**
+Conocer los ODS más relevantes para tu sector te permite **enfocar bien tus decisiones profesionales** y actuar de manera más responsable y eficiente.
 
 ### ⚠️ **Riesgos y oportunidades para tu sector:**
 
-* **Riesgos:**
+#### ❌ **Riesgos de ignorar los ODS:**
 
-  * No adaptarse a las nuevas regulaciones ambientales.
-  * Perder clientes que valoran la sostenibilidad.
-  * Desaprovechar talento si no se apoya la diversidad o conciliación.
+* **Multas o sanciones** por no cumplir normativas ambientales o laborales.
+* **Pérdida de clientes**, especialmente los más concienciados con el medioambiente o la justicia social.
+* **Pérdida de reputación**: una empresa vista como “poco ética” puede tener muy mala imagen.
+* **Fuga de talento**: profesionales jóvenes valoran cada vez más la sostenibilidad y no querrán trabajar en organizaciones irresponsables.
+* **Inestabilidad financiera** por no adaptarse a cambios regulatorios o de mercado.
 
-* **Oportunidades:**
+#### ✅ **Oportunidades al aplicar los ODS:**
 
-  * Ser más competitivo/a por ofrecer productos sostenibles.
-  * Mejor imagen de marca.
-  * Reducir costes al ahorrar recursos (agua, luz, materiales…).
-  * Abrir nuevas líneas de negocio (productos ecológicos, servicios verdes).
+* **Mejora de competitividad**: destacar frente a la competencia por ofrecer servicios sostenibles.
+* **Acceso a nuevos mercados**: como consumidores ecológicos o turismo responsable.
+* **Reducción de costes**: menor consumo de energía, agua o materiales.
+* **Aumento de fidelidad**: los clientes valoran más las marcas con valores claros.
+* **Innovación**: los ODS fomentan nuevas ideas y modelos de negocio más rentables y éticos.
 
-### ✔️ **Propuestas concretas:**
+🧠 **Resumen clave:**
+**Integrar los ODS reduce riesgos y abre oportunidades reales** para el crecimiento profesional, personal y empresarial.
 
-* Reciclar correctamente en tu puesto de trabajo.
-* Elegir proveedores responsables.
-* Usar materiales sostenibles.
-* Participar en campañas o proyectos sociales.
-* Reducir el consumo de papel, electricidad y plástico.
-* Fomentar la igualdad en tu equipo de trabajo.
+### ✔️ **Propuestas concretas de acción personal y profesional:**
+
+Aplicar los ODS no es solo una declaración de intenciones: requiere acciones específicas, visibles y medibles. Aquí tienes ejemplos reales que puedes incorporar en tu día a día:
+
+#### En el entorno profesional:
+
+* **Reciclar correctamente**: separar residuos, papel, vidrio, plásticos y orgánicos.
+* **Usar materiales sostenibles**: preferir papel reciclado, textiles orgánicos o envases biodegradables.
+* **Reducir el consumo energético**: apagar luces y aparatos que no se usan, usar iluminación LED.
+* **Fomentar la igualdad**: aplicar criterios de equidad en selección y promoción laboral.
+* **Elegir proveedores responsables**: priorizar empresas que tengan buenas prácticas sociales y ambientales.
+* **Evitar el desperdicio**: planificar compras, ajustar cantidades, reutilizar materiales.
+
+#### En la vida personal:
+
+* **Consumir local y de temporada.**
+* **Reducir el uso de plásticos.**
+* **Informarse sobre sostenibilidad y compartirlo.**
+* **Apostar por la movilidad sostenible** (andar, bici, transporte público).
+* **Apoyar campañas solidarias o ambientales.**
+
+### 🧠 Conclusión RA3 (clave para el examen):
+
+Este RA te enseña que **la sostenibilidad no es algo externo a ti**, sino que depende también de **tus decisiones y tus hábitos** como profesional y como persona.
+
+Aprender a identificar los ODS que afectan a tu sector, **entender cómo adaptarte a ellos**, y ser capaz de **proponer mejoras sostenibles concretas**, te da ventaja en el entorno laboral actual y te convierte en parte del cambio hacia un futuro mejor.
 
 ---
 
