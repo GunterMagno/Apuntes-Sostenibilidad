@@ -110,45 +110,6 @@ Evalúan el modelo de gestión y toma de decisiones:
 
 🧠 *Ejemplo:* Una organización con directivos éticos, sin conflictos de interés y políticas claras es más sólida y confiable.
 
-### 📊 **Indicadores para evaluar la sostenibilidad (KPI)**
-
-Un **KPI (Key Performance Indicator)** es un indicador numérico que permite saber si una empresa está avanzando en sostenibilidad. Se dividen en tres tipos:
-
-#### 📉 Ambientales:
-
-* Consumo de agua o energía.
-* Emisiones de CO₂.
-* Huella de carbono.
-* Uso de materiales reciclables.
-
-#### 👥 Sociales:
-
-* Nivel de satisfacción del personal.
-* Igualdad de género en el equipo.
-* Horas de formación por trabajador.
-* Índice de rotación de personal.
-
-#### 📈 Gobernanza:
-
-* Transparencia en las cuentas.
-* Cumplimiento normativo.
-* Diversidad en la dirección.
-* Riesgos fiscales controlados.
-
-### 🏢 **Análisis de sostenibilidad del sector (actividad final del RA1)**
-
-El PDF propone una actividad clave: **analizar una empresa del sector profesional**.
-
-Pasos:
-
-1. Escoger una empresa real.
-2. Buscar información pública (web, prensa, redes).
-3. Evaluar cómo gestiona los aspectos ASG.
-4. Ver sus oportunidades de mejora.
-5. Puntuar su nivel de sostenibilidad y justificarlo.
-
-🧠 *Objetivo:* aprender a identificar fortalezas, riesgos y puntos de mejora desde una mirada crítica y profesional.
-
 ### ✅ **Conclusión del RA1 (para examen o desarrollo):**
 
 El RA1 te introduce en el **concepto integral de sostenibilidad**, explicando que esta no solo trata del medioambiente, sino también del bienestar de las personas y de una gestión ética y transparente. Aprender a evaluar proyectos o empresas desde los criterios ASG es una herramienta clave para cualquier futuro profesional.
