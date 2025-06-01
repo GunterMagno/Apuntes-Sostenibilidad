@@ -27,10 +27,6 @@ Entender qué es la sostenibilidad, conocer los marcos internacionales que la im
 
 ---
 
-¡Buena observación! ✅ Efectivamente, el **RA2** tiene mucho contenido de fondo y más páginas que otros porque **profundiza en los problemas ambientales y sociales**. Aquí tienes una versión **más ampliada y detallada** del **RA2**, incluyendo todos los aspectos importantes del archivo:
-
----
-
 ## 🌍 **RA2: Caracteriza los retos ambientales y sociales actuales**
 
 ### 🎯 **Objetivo general:**
