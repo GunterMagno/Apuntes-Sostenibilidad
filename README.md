@@ -2,28 +2,160 @@
 
 ---
 
-## 🧭 **RA1: Identificación de aspectos ASG y sostenibilidad**
+¡Perfecto! Vamos a **extender y profundizar al máximo el RA1** usando el contenido del PDF que me diste para que no se quede nada fuera. Aquí tienes el **RA1 completamente desarrollado, explicado y con ejemplos**, perfecto para repasar para el examen:
 
-### 🎯 **Objetivo:**
+---
 
-Entender qué es la sostenibilidad, conocer los marcos internacionales que la impulsan y aprender a identificar los aspectos ASG (Ambientales, Sociales y de Gobernanza).
+## 🧭 **RA1: Identificación de los aspectos ASG y sostenibilidad**
 
-### 🧩 **Contenido explicado:**
+### 🎯 **Objetivo del RA1 (explicado):**
 
-* **🌱 ¿Qué es la sostenibilidad?**
-  Es el equilibrio entre el ser humano y los recursos del entorno, promoviendo cambios **ambientales, sociales, económicos, políticos y culturales** que garanticen el bienestar presente **sin comprometer a las futuras generaciones**.
+Este resultado de aprendizaje busca que **comprendas qué es la sostenibilidad en un sentido amplio**. No se trata solo de cuidar el medio ambiente, sino de incorporar también los aspectos sociales y de gobernanza que afectan tanto a las personas como al funcionamiento ético de las organizaciones.
 
-* **📌 Desarrollo Sostenible:**
-  Asegurar el presente **sin renunciar a la protección ambiental, el crecimiento económico y el desarrollo social**.
+Además, se pretende que conozcas **los acuerdos internacionales** que sirven de guía para gobiernos, empresas y ciudadanos en el camino hacia un futuro más justo, seguro y habitable.
 
-* **📚 Marcos internacionales clave:**
+### 🌱 **¿Qué es la sostenibilidad?**
 
-  * **Acuerdo de París:** lucha global contra el cambio climático.
-  * **Marco de Sendai:** gestión del riesgo de desastres.
-  * **ODS (Objetivos de Desarrollo Sostenible):** 17 metas de la ONU dentro de la Agenda 2030 para construir un futuro justo y sostenible.
+Según el contenido del PDF, la sostenibilidad es:
 
-* **🔍 Sustentabilidad vs Sostenibilidad:**
-  Lo **sustentable** se mantiene si se gestiona bien. Lo **sostenible** integra también lo social y lo económico.
+> “El equilibrio de una especie con los recursos de su entorno a partir de una serie de procesos que buscan un cambio integral: medioambiental, social, económico, político y cultural.”
+
+Esto significa que no basta con “contaminar menos” o “reciclar más”. Ser sostenible implica **transformar completamente** la forma en la que vivimos, producimos, consumimos y nos organizamos como sociedad. Supone **una nueva mentalidad**, tanto en lo personal como en lo profesional.
+
+### 📌 **¿Qué es el desarrollo sostenible?**
+
+El desarrollo sostenible se define como:
+
+> “Asegurar las necesidades del presente sin comprometer las necesidades de las generaciones futuras”, y siempre sin renunciar a:
+
+* La protección del medioambiente.
+* El desarrollo económico.
+* El bienestar social.
+
+🧠 En otras palabras, se trata de crecer y progresar **de forma responsable**, dejando un planeta habitable y justo a quienes vendrán después de nosotros.
+
+### 🔁 **Sustentabilidad vs. Sostenibilidad:**
+
+Aunque a veces se usan como sinónimos, **hay una diferencia importante**:
+
+* **Sustentabilidad**: capacidad de mantenerse a lo largo del tiempo si se gestiona adecuadamente. Está más centrada en los **recursos naturales**.
+* **Sostenibilidad**: visión más amplia que incorpora también los aspectos **sociales y económicos**, además del entorno.
+
+💡 *Ejemplo:*
+Una empresa que reduce plásticos es **sustentable**, pero si además cuida el trato a sus trabajadores y apuesta por la economía local, también es **sostenible**.
+
+### 🌐 **Marcos internacionales clave (muy importantes):**
+
+Los marcos internacionales dan **estructura y guía** al trabajo por la sostenibilidad. Entre los más importantes:
+
+#### 📄 **Acuerdo de París (2015)**
+
+* Acuerdo climático global firmado por casi todos los países del mundo.
+* Objetivo: limitar el calentamiento global por debajo de 2 °C, preferiblemente 1,5 °C.
+* Compromete a los países a reducir emisiones y fomentar energías limpias.
+
+#### 📘 **Marco de Sendai (2015–2030)**
+
+* Centrado en la **reducción del riesgo de desastres** naturales.
+* Su idea clave es prevenir mejor para evitar grandes impactos sociales y económicos.
+* Importante para sectores como la construcción, planificación urbana o turismo.
+
+#### 🎯 **ODS – Objetivos de Desarrollo Sostenible (2015)**
+
+* Son **17 objetivos concretos** que buscan transformar el mundo para 2030.
+* Están incluidos dentro de la **Agenda 2030**, una hoja de ruta global.
+* Algunos ODS clave:
+
+  * ODS 1: Fin de la pobreza.
+  * ODS 5: Igualdad de género.
+  * ODS 13: Acción por el clima.
+  * ODS 12: Producción y consumo responsables.
+
+🧠 *Importancia:*
+Los ODS no son solo una guía para los gobiernos: también **empresas, escuelas, profesionales y ciudadanos pueden contribuir a ellos**.
+
+### 🧱 **Aspectos ASG: los pilares de la sostenibilidad**
+
+Los criterios **ASG** (Ambientales, Sociales y de Gobernanza) sirven para **evaluar cómo de sostenible es una empresa o proyecto**. Son el eje central del RA1:
+
+#### 🌍 **Ambientales (A):**
+
+Analizan el impacto de la empresa sobre el medioambiente:
+
+* Emisiones de gases de efecto invernadero.
+* Gestión de residuos.
+* Eficiencia energética.
+* Uso del agua.
+* Contaminación del aire o del suelo.
+
+🧠 *Ejemplo:* Una fábrica que filtra sus emisiones y usa energía solar mejora su desempeño ambiental.
+
+#### 🧑‍🤝‍🧑 **Sociales (S):**
+
+Estudian cómo la empresa trata a las personas:
+
+* Condiciones laborales.
+* Diversidad e inclusión.
+* Conciliación laboral y familiar.
+* Privacidad de datos.
+* Contribución a la comunidad.
+
+🧠 *Ejemplo:* Una empresa que promueve igualdad salarial entre mujeres y hombres destaca en el aspecto social.
+
+#### 🏛 **Gobernanza (G):**
+
+Evalúan el modelo de gestión y toma de decisiones:
+
+* Transparencia financiera.
+* Ética empresarial.
+* Composición del consejo directivo.
+* Lucha contra la corrupción.
+* Estrategia fiscal.
+
+🧠 *Ejemplo:* Una organización con directivos éticos, sin conflictos de interés y políticas claras es más sólida y confiable.
+
+### 📊 **Indicadores para evaluar la sostenibilidad (KPI)**
+
+Un **KPI (Key Performance Indicator)** es un indicador numérico que permite saber si una empresa está avanzando en sostenibilidad. Se dividen en tres tipos:
+
+#### 📉 Ambientales:
+
+* Consumo de agua o energía.
+* Emisiones de CO₂.
+* Huella de carbono.
+* Uso de materiales reciclables.
+
+#### 👥 Sociales:
+
+* Nivel de satisfacción del personal.
+* Igualdad de género en el equipo.
+* Horas de formación por trabajador.
+* Índice de rotación de personal.
+
+#### 📈 Gobernanza:
+
+* Transparencia en las cuentas.
+* Cumplimiento normativo.
+* Diversidad en la dirección.
+* Riesgos fiscales controlados.
+
+### 🏢 **Análisis de sostenibilidad del sector (actividad final del RA1)**
+
+El PDF propone una actividad clave: **analizar una empresa del sector profesional**.
+
+Pasos:
+
+1. Escoger una empresa real.
+2. Buscar información pública (web, prensa, redes).
+3. Evaluar cómo gestiona los aspectos ASG.
+4. Ver sus oportunidades de mejora.
+5. Puntuar su nivel de sostenibilidad y justificarlo.
+
+🧠 *Objetivo:* aprender a identificar fortalezas, riesgos y puntos de mejora desde una mirada crítica y profesional.
+
+### ✅ **Conclusión del RA1 (para examen o desarrollo):**
+
+El RA1 te introduce en el **concepto integral de sostenibilidad**, explicando que esta no solo trata del medioambiente, sino también del bienestar de las personas y de una gestión ética y transparente. Aprender a evaluar proyectos o empresas desde los criterios ASG es una herramienta clave para cualquier futuro profesional.
 
 ---
 
