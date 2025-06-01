@@ -138,7 +138,3 @@
 
 30. **¿Qué debe incluir la evaluación del desempeño en sostenibilidad?**
     **R:** Indicadores medibles (KPIs), seguimiento temporal, responsables asignados y resultados comparables con objetivos.
-
----
-
-¿Quieres que te lo pase todo esto en **PDF para imprimir o estudiar**? También puedo convertirlo en fichas de estudio o práctica interactiva. ¿Cómo prefieres?
