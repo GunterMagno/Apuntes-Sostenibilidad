@@ -334,69 +334,63 @@ Aprender a identificar los ODS que afectan a tu sector, **entender cómo adaptar
 
 ### 🎯 **Objetivo:**
 
-Diseñar productos o servicios **sostenibles**, siguiendo los principios de la **economía circular**, y **compararlos con el modelo clásico**.
+Diseñar productos o servicios **sostenibles**, siguiendo los principios de la **economía circular**, y **compararlos con el modelo clásico**, entendiendo cómo este cambio puede mejorar el impacto ambiental, social y económico del sector profesional.
 
 ### 🧩 **Contenido explicado:**
 
-* **🔁 ¿Qué es la economía circular?**
+### 🔁 **¿Qué es la economía circular?**
 
-  * Modelo económico que **aprovecha los recursos al máximo**, reduciendo residuos y reutilizando materiales.
-  * **Sustituye al modelo lineal:** *producir → usar → tirar*.
-  * Se basa en el concepto de **cerrar el ciclo de vida del producto**.
+La economía circular es un **modelo económico alternativo** al tradicional, basado en **mantener los productos y materiales en uso el mayor tiempo posible**. Busca **cerrar el ciclo de vida de los productos**, promoviendo su reutilización, reparación, reciclaje o rediseño, para reducir la generación de residuos.
+
+Se opone al modelo lineal de “producir → usar → tirar”, y en su lugar plantea un sistema regenerativo donde los recursos se aprovechan al máximo, disminuyendo así la presión sobre el medioambiente.
+
+Este modelo también genera **empleo, innovación y valor económico** mediante una producción más inteligente y menos contaminante.
 
 ### 🌿 **Economía verde vs. economía lineal:**
 
-* **Economía verde:**
-  Promueve la eficiencia energética, reduce la contaminación, busca generar empleo sin destruir el medioambiente.
+**Economía verde:**
 
-* **Economía lineal (modelo actual):**
-  Produce grandes cantidades de residuos, depende mucho de recursos finitos, y **ya no es viable** por su impacto negativo en el planeta.
+* Fomenta la eficiencia energética y la gestión sostenible de los recursos.
+* Busca un desarrollo económico que no destruya el medioambiente.
+* Integra el empleo verde como herramienta para la inclusión social.
+
+**Economía lineal:**
+
+* Es el modelo clásico y dominante hasta ahora.
+* Se basa en el uso intensivo de recursos naturales.
+* Genera grandes cantidades de residuos y contaminación.
+* Ya no es viable por su insostenibilidad en el tiempo.
 
 ### 🛠 **Aplicaciones prácticas:**
 
-* **🧠 Ecodiseño:**
-  Diseñar productos pensando desde el principio en **cómo reducir su impacto ambiental**.
-  Ejemplo: usar materiales reciclables, simplificar envases, hacer productos duraderos.
+### 🧠 **Ecodiseño:**
 
-* **🔍 Análisis del ciclo de vida:**
+Es una metodología que busca **minimizar el impacto ambiental desde el diseño del producto**. Implica pensar desde el principio en:
 
-  * Desde que se extrae la materia prima hasta que el producto se desecha.
-  * Permite identificar en qué etapa se puede reducir el impacto (producción, transporte, uso, reciclaje...).
+* Materiales reciclados o reciclables.
+* Reducción del número de piezas.
+* Facilidad para desmontar y reutilizar.
+* Durabilidad y eficiencia del producto.
+
+Ejemplo: Una botella diseñada para ser reutilizable, ligera, de plástico reciclado y con etiquetado ecológico.
+
+### 🔍 **Análisis del ciclo de vida:**
+
+Permite estudiar **todas las etapas de un producto**: extracción de materias primas, fabricación, transporte, uso, reutilización y disposición final.
+
+Este análisis ayuda a identificar en qué fases se produce el mayor impacto y dónde se pueden introducir mejoras para reducir residuos, consumo de energía o emisiones contaminantes.
 
 ### 🏭 **Procesos productivos sostenibles:**
 
-* Usar **energías limpias.**
-* Optimizar el uso del agua.
-* Evitar productos contaminantes.
-* Promover el reciclaje y la reutilización.
+* **Usar energías limpias** (solar, eólica, biomasa).
+* **Optimizar el uso de agua y materias primas.**
+* **Sustituir productos contaminantes** por otros biodegradables o ecológicos.
+* **Fomentar el reciclaje y la economía colaborativa.**
+* Diseñar procesos industriales que generen menos residuos y consuman menos energía.
 
-### 🔄 Conclusión RA4:
+### 🔄 **Conclusión RA4:**
 
-Para que un producto o servicio sea responsable hoy en día, **debe seguir criterios circulares, ecológicos y sociales**. No solo importa el qué se vende, sino el **cómo se produce, se usa y se desecha**.
-
-### 🧱 **Aspectos ASG (pilares de la sostenibilidad):**
-
-* **🌍 Ambientales:**
-
-  * Emisiones, residuos, eficiencia energética, consumo de recursos.
-* **🧑‍🤝‍🧑 Sociales:**
-
-  * Igualdad, diversidad, condiciones laborales, privacidad, conciliación.
-* **🏛 Gobernanza:**
-
-  * Transparencia, ética, toma de decisiones, lucha anticorrupción.
-
-### 📊 **Métricas y evaluación de sostenibilidad:**
-
-* **KPI (Indicadores clave):**
-
-  * *Ambientales:* huella de carbono, agua usada, materias primas.
-  * *Sociales:* diversidad, salud laboral, conciliación.
-  * *Gobernanza:* rentabilidad, deuda, estructura organizativa.
-
-### 🏢 **Análisis del sector:**
-
-* Haz un estudio de una **empresa de tu sector** y un producto representativo. Evalúa **riesgos, oportunidades y propuestas de mejora ASG**.
+Los productos y servicios responsables deben **responder a los retos del planeta** desde el diseño hasta su desecho. La economía circular y verde ofrecen **modelos más viables y sostenibles** que permiten reducir el impacto ambiental sin frenar la actividad económica. Es una oportunidad para el sector productivo de innovar, reducir costes y destacar por su compromiso.
 
 ---
 
@@ -404,23 +398,57 @@ Para que un producto o servicio sea responsable hoy en día, **debe seguir crite
 
 ### 🎯 **Objetivo:**
 
-Pasar a la acción: **diseñar y aplicar estrategias sostenibles** en tu entorno laboral o profesional **minimizando el impacto ambiental**.
+Llevar a la práctica las ideas sostenibles, diseñando **acciones reales que reduzcan el impacto ambiental**, cumplan la normativa vigente y comuniquen de forma clara y ética los esfuerzos que se realizan.
 
 ### 🧩 **Contenido explicado:**
 
-* **🛠 ¿Qué significa “sostenibilear”?**
-  Aplicar de forma planificada y responsable acciones sostenibles. No vale improvisar: hay que tener en cuenta **todo el sistema** que interviene en la acción (medioambiente, normativas, personas...).
+### 🛠 **¿Qué significa “sostenibilear”?**
 
-* **⚖ Normativa sobre sostenibilidad empresarial:**
-  Hay que cumplir con las leyes que regulan la sostenibilidad (ej.: huella de carbono, gestión de residuos, etiquetado ecológico…).
+Es actuar de forma consciente para que lo que haces profesionalmente tenga **impacto positivo en el entorno**, no solo en lo económico sino también en lo ambiental y social.
 
-* **✅ Certificaciones sostenibles:**
+“Sostenibilear” implica:
 
-  * *En restauración:* como Biosphere, LEED o Slow Food.
-  * *En alimentación:* AENOR, ISO 14001, certificaciones ecológicas...
+* Planificación: no improvisar.
+* Visión sistémica: entender que todo está conectado (producción, recursos, personas, residuos).
+* Responsabilidad: cumplir con lo prometido, con la ley y con los valores éticos de sostenibilidad.
 
-* **📢 Comunicación transparente:**
-  No basta con actuar bien: hay que **informar y demostrar** que se está cumpliendo con los criterios sostenibles.
+### ⚖ **Normativa sobre sostenibilidad empresarial:**
+
+Existen normas que **obligan o recomiendan** a las empresas realizar su actividad de forma responsable. Estas pueden ser:
+
+* Europeas (como la directiva de información no financiera).
+* Nacionales o autonómicas.
+* Sectoriales (seguridad alimentaria, emisiones, residuos…).
+
+Cumplir estas normativas no solo evita sanciones, sino que mejora la relación con clientes, administraciones y sociedad.
+
+### ✅ **Certificaciones sostenibles:**
+
+Certifican que una empresa o producto cumple con criterios de sostenibilidad.
+
+**Ejemplos en restauración:**
+
+* **Biosphere:** turismo responsable.
+* **LEED:** construcción sostenible.
+* **Slow Food:** gastronomía local y ética.
+
+**Ejemplos en alimentación:**
+
+* **AENOR ISO 14001:** gestión ambiental.
+* **Certificaciones ecológicas europeas:** producción bio y orgánica.
+
+Estas certificaciones sirven también como herramienta de marketing sostenible y transparencia.
+
+### 📢 **Comunicación transparente:**
+
+No basta con hacer las cosas bien, también hay que saber **comunicarlo de forma clara, sincera y verificada**. Algunas acciones:
+
+* Incluir sellos en productos.
+* Compartir informes de sostenibilidad.
+* Explicar en redes sociales las buenas prácticas.
+* Formar al personal para que sepa comunicarlo también.
+
+Una buena comunicación fortalece la imagen de marca y genera confianza.
 
 ---
 
@@ -428,49 +456,76 @@ Pasar a la acción: **diseñar y aplicar estrategias sostenibles** en tu entorno
 
 ### 🎯 **Objetivo:**
 
-Saber analizar el **Plan de Sostenibilidad** de una empresa: identificar sus grupos de interés, los temas ASG clave, proponer acciones y medir su desempeño.
+Desarrollar la capacidad de **analizar y valorar los planes de sostenibilidad empresariales** en tu sector, reconociendo los grupos de interés, los indicadores utilizados, y las acciones diseñadas para afrontar los retos ASG (ambientales, sociales y de gobernanza).
 
 ### 🧩 **Contenido explicado:**
 
-* **📘 ¿Qué es un Plan de Sostenibilidad?**
-  Un conjunto de **estrategias y acciones** para responder a los retos sociales, ambientales y económicos de forma integral.
+### 📘 **¿Qué es un Plan de Sostenibilidad?**
+
+Es una herramienta estratégica que agrupa todas las acciones, metas e indicadores que una empresa plantea para mejorar su sostenibilidad. Abarca:
+
+* Compromisos ambientales (emisiones, residuos, recursos).
+* Compromisos sociales (condiciones laborales, diversidad, igualdad).
+* Compromisos de gobernanza (ética, transparencia, legalidad).
+
+Su objetivo es **orientar la empresa hacia una transformación sostenible, medible y continua**.
 
 ### 🔍 **¿Por qué es importante?**
 
-* Reduce impactos negativos (contaminación, desigualdad…).
-* Mejora eficiencia y reduce costes.
-* Aumenta la reputación y competitividad.
-* Cumple con normativas legales.
-* Atrae talento y fideliza clientes.
-* Facilita adaptación al cambio climático.
+* **Reduce impactos negativos:** sobre el planeta y las personas.
+* **Mejora la eficiencia:** menos recursos y más ahorro.
+* **Evita sanciones:** al cumplir la normativa ambiental y social.
+* **Mejora la imagen de marca:** la sostenibilidad vende.
+* **Fideliza clientes y empleados:** genera confianza y compromiso.
+* **Abre nuevas oportunidades:** acceder a ayudas, nuevos mercados o inversores responsables.
 
 ### 👥 **Grupos de interés (Stakeholders):**
 
-* **Internos:** empleados/as, directivos, accionistas.
-* **Externos:** clientes, proveedores, bancos, administración.
+Son todas aquellas personas o colectivos que se ven afectados por la empresa o que influyen en ella.
 
-📊 *Se analizan por*:
+**Internos:**
 
-* Nivel de influencia (alta, media, baja).
-* Nivel de dependencia (alta, media, baja).
+* Personal.
+* Dirección.
+* Accionistas.
+
+**Externos:**
+
+* Clientes/as.
+* Proveedores/as.
+* Administración pública.
+* Comunidad local.
+* ONG, sindicatos, medios...
+
+Cada grupo puede tener **más o menos influencia y dependencia**, por lo que hay que priorizar sus necesidades en el plan.
 
 ### 📈 **Análisis de materialidad:**
 
-* Proceso para **priorizar los temas más importantes** en sostenibilidad.
-* Incluye preocupaciones de stakeholders y su relación con los objetivos de la empresa.
-* Cubre dimensiones **ambientales, sociales y de gobernanza**.
+Consiste en identificar los **temas prioritarios** para la sostenibilidad de una empresa, cruzando:
+
+* Lo que es importante para los grupos de interés.
+* Lo que es clave para el modelo de negocio.
+
+Así, se priorizan las acciones más urgentes y de mayor impacto (por ejemplo: emisiones, inclusión social o transparencia).
 
 ### 📏 **Medición del desempeño:**
 
-* Indicadores SMART:
+Se realiza mediante **indicadores SMART**, es decir:
 
-  * **S**: específicos
-  * **M**: medibles
-  * **A**: alcanzables
-  * **R**: realistas
-  * **T**: temporalizables
+* **S**: específicos (bien definidos).
+* **M**: medibles (datos, cifras).
+* **A**: alcanzables (realistas).
+* **R**: relevantes (alineados con los objetivos).
+* **T**: temporalizables (con plazos definidos).
+
+Esto permite hacer seguimiento y demostrar el progreso real del plan.
 
 ### 📣 **Comunicación del plan:**
 
-* Informar a los grupos de interés.
-* Elaborar **memorias de sostenibilidad** con resultados, riesgos y oportunidades ASG.
+Una vez diseñado e implementado, el plan debe ser comunicado de forma transparente, clara y útil. Esto se hace a través de:
+
+* **Memorias de sostenibilidad.**
+* **Informes públicos.**
+* **Reuniones con grupos de interés.**
+
+El objetivo es generar confianza y mostrar el compromiso real de la empresa con la sostenibilidad.
