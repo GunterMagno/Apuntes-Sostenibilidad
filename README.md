@@ -188,10 +188,6 @@ Comprender a fondo los **grandes retos que enfrenta el planeta**, **cómo afecta
 
 ---
 
-¡Perfecto! Aquí tienes el **RA3 completamente ampliado y detallado** en el mismo formato `.md` que usaste. He profundizado en todos los conceptos que mencionas, para que lo tengas listo para repasar o entregar:
-
----
-
 ## 🧑‍🔬 **RA3: Aplicar criterios de sostenibilidad en tu vida profesional y personal**
 
 ### 🎯 **Objetivo:**
