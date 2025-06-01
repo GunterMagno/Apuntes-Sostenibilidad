@@ -2,10 +2,6 @@
 
 ---
 
-¡Perfecto! Vamos a **extender y profundizar al máximo el RA1** usando el contenido del PDF que me diste para que no se quede nada fuera. Aquí tienes el **RA1 completamente desarrollado, explicado y con ejemplos**, perfecto para repasar para el examen:
-
----
-
 ## 🧭 **RA1: Identificación de los aspectos ASG y sostenibilidad**
 
 ### 🎯 **Objetivo del RA1 (explicado):**
